@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'sugar';
+    src: url('../styling/BrownSugar.ttf');
+}
+
+h1 {
+    font-family: 'sugar';
+    color: #0f0f0f;
+}
+
+
+.text-area{
+    padding: 20px;
+}
