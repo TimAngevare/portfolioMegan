@@ -9,7 +9,27 @@ h1 {
     color: #0f0f0f;
 }
 
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5%;
+}
 
-.text-area{
-    padding: 20px;
+.main {
+    overflow-x: hidden;
+}
+
+@media (min-width:320px) {
+    .text-area{
+        padding: 40px;
+        text-align: justify;
+    }
+}
+
+@media (min-width:801px) {
+    .text-area{
+        padding: 0px;
+        padding-left: 50px;
+        text-align: left;
+    }
 }

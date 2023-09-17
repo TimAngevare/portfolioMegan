@@ -1,5 +1,6 @@
 import Data from '../assets/Projects.json'
 import {useEffect, useState} from "react";
+import {Link} from "react-router-dom";
 export default function Portfolio () {
     const [projects, setProjects] = useState([])
 
@@ -17,30 +18,19 @@ export default function Portfolio () {
                    <p>Here displayed my most recent projects. Either used for academic goals or personal works</p>
                </div>
 
-               <div className="row">
-                   <div className="col-lg-12 d-flex justify-content-center">
-                       <ul id="portfolio-flters">
-                           <li data-filter="*" className="filter-active">All</li>
-                           <li data-filter=".filter-app">Furniture</li>
-                           <li data-filter=".filter-card">Paintings</li>
-                           <li data-filter=".filter-web">Prototypes</li>
-                       </ul>
-                   </div>
-               </div>
 
                <div className="row portfolio-container">
                    {projects.map(projectData =>
                        <div className="col-lg-4 col-md-6 portfolio-item filter-app">
-                           <div className="portfolio-wrap">
-                               <img src={projectData.image} className="img-fluid" alt="" />
+                           <div className="portfolio-wrap" onClick={() => {window.location.href = "/projects?id=" + projectData.id}}>
+                               <img src={projectData.images[0]} className="img-fluid" alt="" />
                                <div className="portfolio-info">
                                    <h4>{projectData.title}</h4>
-                                   <p>App</p>
                                </div>
                                <div className="portfolio-links">
-                                   <a href={projectData.image} data-gallery="portfolioGallery"
-                                      className="portfolio-lightbox" title="App 1"><i className="bx bx-plus"></i></a>
-                                   <a href="portfolio-details.html" title="More Details"><i className="bx bx-link"></i></a>
+                                   <a href={projectData.images[0]} data-gallery="portfolioGallery"
+                                      className="portfolio-lightbox" title={projectData.title}><i className="bx bx-plus"></i></a>
+                                   <Link to={"/projects?id=" + projectData.id} title="More Details"><i className="bx bx-link"></i></Link>
                                </div>
                            </div>
                        </div>

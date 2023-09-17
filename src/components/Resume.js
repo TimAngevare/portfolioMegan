@@ -1,3 +1,6 @@
+import CV from '../assets/CV..pdf';
+import '../styling/Resume.css'
+
 export default function Resume() {
     return(
         <section id="resume" className="resume section-bg">
@@ -5,87 +8,74 @@ export default function Resume() {
 
                 <div className="section-title">
                     <h2>Resume</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                 </div>
 
-                <div className="row">
+                <div className="row resumeSec">
                     <div className="col-lg-6">
-                        <h3 className="resume-title">Sumary</h3>
-                        <div className="resume-item pb-0">
-                            <h4>Alice Barkley</h4>
-                            <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing
-                                and developing user-centered digital/print marketing material from initial concept to
-                                final, polished deliverable.</em></p>
-                            <p>
-                                <ul>
-                                    <li>Portland par 127,Orlando, FL</li>
-                                    <li>(123) 456-7891</li>
-                                    <li>alice.barkley@example.com</li>
-                                </ul>
-                            </p>
-                        </div>
 
                         <h3 className="resume-title">Education</h3>
                         <div className="resume-item">
-                            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2015 - 2016</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero
-                                voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                            <h4>Interior architecture Bachelor</h4>
+                            <h5>2021 - present</h5>
+                            <p><em>Artez university of the arts, Zwolle</em></p>
+                            <p>Third year student. Currently in my academic internship.</p>
                         </div>
                         <div className="resume-item">
-                            <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2010 - 2014</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel
-                                ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
-                                consequatur neque etlon sader mart dila</p>
+                            <h4>VWO bilingual highschool</h4>
+                            <h5>2015 - 2021</h5>
+                            <p><em>Farel College, Amersfoort</em></p>
+                            <p>Graduated highschool at the Farel College with a level of VWO. Followed a scientific learning path.</p>
+                        </div>
+
+                        <h3 className="resume-title">Certificates</h3>
+                        <div className="resume-item">
+                            <h4>International Baccalaureate</h4>
+                            <p><em>At Farel College came in possesion of my IB certificate</em></p>
+                        </div>
+                        <div className="resume-item">
+                            <h4>DELE Spaans A1, Instito Cervantes</h4>
+                            <p><em>Demonstrates profficiancy in normal day to day use of spanish language</em></p>
+                        </div>
+                        <div className="resume-item pb-0">
+                            <h4>Council of Europe Level B2, Cambridge University Press & Assessment English</h4>
+                            <p><em>Profficient in the english language. Handed by the Cambridge University</em></p>
                         </div>
                     </div>
                     <div className="col-lg-6">
                         <h3 className="resume-title">Professional Experience</h3>
                         <div className="resume-item">
-                            <h4>Senior graphic design specialist</h4>
-                            <h5>2019 - Present</h5>
-                            <p><em>Experion, New York, NY </em></p>
+                            <h4>Hospitality Host</h4>
+                            <h5>2023 - 2023</h5>
+                            <p><em>N/P notarial partners, Amersfoort </em></p>
+                            <p>Temporary parttime flex worker. Day to day tasks consisted of; welcoming guests, proccess forms of external contact and ensuring a proffesional first impression towards visitors.</p>
+                        </div>
+                        <div className="resume-item">
+                            <h4>Sales representative</h4>
+                            <h5>2020 - 2022</h5>
+                            <p><em>Roosters, Amersfoort</em></p>
                             <p>
-                                <ul>
-                                    <li>Lead in the design, development, and implementation of the graphic, layout, and
-                                        production communication materials
-                                    </li>
-                                    <li>Delegate tasks to the 7 members of the design team and provide counsel on all
-                                        aspects of the project.
-                                    </li>
-                                    <li>Supervise the assessment of all graphic materials in order to ensure quality and
-                                        accuracy of the design
-                                    </li>
-                                    <li>Oversee the efficient use of production project budgets ranging from $2,000 -
-                                        $25,000
-                                    </li>
-                                </ul>
+
                             </p>
                         </div>
                         <div className="resume-item">
-                            <h4>Graphic design specialist</h4>
-                            <h5>2017 - 2018</h5>
-                            <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                            <h4>Store worker</h4>
+                            <h5>2019 - 2020</h5>
+                            <p><em>Kruidvat, Amersfoort</em></p>
                             <p>
-                                <ul>
-                                    <li>Developed numerous marketing programs (logos, brochures,infographics,
-                                        presentations, and advertisements).
-                                    </li>
-                                    <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                    <li>Recommended and consulted with clients on the most appropriate graphic design
-                                    </li>
-                                    <li>Created 4+ design presentations and proposals a month for clients and account
-                                        managers
-                                    </li>
-                                </ul>
+                            </p>
+                        </div>
+                        <div className="resume-item">
+                            <h4>Medicine delivery</h4>
+                            <h5>2018 - 2019</h5>
+                            <p><em>Aphoteek Zielhorst B.V., Amersfoort</em></p>
+                            <p>
                             </p>
                         </div>
                     </div>
+                </div>
+
+                <div className="row">
+                    <a className="cvDownload" href={CV} download="cvMeganVanDelden.pdf">Download my CV</a>
                 </div>
 
             </div>

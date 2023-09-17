@@ -1,4 +1,5 @@
 import Navigation from "./Navigation";
+import Contact from "./Contact";
 import {useLocation} from "react-router-dom";
 import {useEffect, useState} from "react";
 import Data from '../assets/Projects.json'
@@ -16,20 +17,33 @@ export default function Project(){
     }, [])
 
     return(
-        <div>
+        <div className="main">
             <Navigation>
             </Navigation>
             {project && <div>
-                <div className="row">
-                    <div className="col-lg-6 image-col">
-                        <img src={project.image}/>
-                    </div>
+                <div className="row" style={{paddingTop : 10}}>
                     <div className="col-lg-6 text-area">
                         <div className="row"><h1>{project.title}</h1></div>
-                        <div className="row"><p>{project.description}</p></div>
+                        <div className="sticky">
+                            <div className="row">
+                                {project.description.map((paragraph) =>
+                                    <p>{paragraph}</p>)
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-6 image-col">
+                        {project.images.map((image) =>
+                            <img src={image}/>)
+                        }
                     </div>
                 </div>
+                {project.HTML &&
+                <div className="row">
+                    <div dangerouslySetInnerHTML={{__html: project.HTML}}/>
+                </div>}
             </div>}
+            <Contact/>
         </div>
     );
 }

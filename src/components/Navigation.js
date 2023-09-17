@@ -1,5 +1,6 @@
 import {Nav, NavDropdown} from 'react-bootstrap';
 import '../styling/Navigation.css';
+import {Link} from "react-router-dom";
 
 export default function Navigation() {
 
@@ -7,8 +8,8 @@ export default function Navigation() {
         <header id="header" className="d-flex align-items-center">
             <div className="container d-flex align-items-center justify-content-between">
 
-                <div className="logo">
-                    <h1 className="header-text"><a href="index.html">Megan van Delden</a></h1>
+                <div className="logo" style={{justifyContent: "center"}}>
+                    <h1 className="header-text"><Link to="/">Megan van Delden</Link></h1>
                 </div>
 
                 <nav id="navbar" className="navbar">
