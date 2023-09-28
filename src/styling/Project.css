@@ -15,9 +15,6 @@ h1 {
     top: 5%;
 }
 
-.main {
-    overflow-x: hidden;
-}
 
 @media (min-width:320px) {
     .text-area{

@@ -18,9 +18,6 @@ export default function Authorship(){
                     </div>
                 </div>
                 <div className="col">
-                    <div className="row" style={{alignSelf: "center"}}>
-                        <img style={{height: 750, width: "auto", display: "block", marginLeft: "auto"}} src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/reflectiePosterSem5.png"/>
-                    </div>
                     <div className="row" style={{paddingTop: 10}}>
                         <video width="350" height="300" loop autoPlay muted style={{display: "block", marginLeft: "auto"}}>
                             <source src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/SchouwZelfreflectieDansschetsen2.mp4" type="video/mp4" />

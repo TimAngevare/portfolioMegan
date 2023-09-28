@@ -3,33 +3,25 @@
     "id": 0,
     "title" : "Authorship",
     "description" : ["Ik dans al van jongs af aan en als ik een bepaald dansstuk of muziekstuk zie of hoor dan raak ik helemaal verdwaald omdat ik er een wereld of situatie visualiseer. Er zit zo veel emotie en passie in dans dat het niet op een andere manier uit te drukken is. Het kan een verhaal vertellen of een gevoel overbrengen. Daarbij kunnen mensen snel een eigen verhaal of ervaring aan koppelen, waardoor je jezelf erin herkent. Wat ik daar zo mooi aan vind is dat dans zo breed en specifiek tegelijkertijd kan zijn. Iedereen kan het begrijpen en voelen, maar toch kan iedereen er een eigen verhaal voor zich zien.\nTegenwoordig merk ik dat we niet meer zo bewust worden van ons lichaam. Onze lichaamshouding veranderd doordat we achter laptops werken en op onze telefoon constant zitten. Daarnaast leven we in een wereld waarin we geen tijd hebben, alles moet snel en gehaast want er is altijd wel wat te doen. Ook op onze studie, iedereen moet vooruit en kan niet even stilstaan. We lopen letterlijk op onze tenen en zitten te veel in ons hoofd. Hierdoor raken studenten snel gestrest en ontstaat het een negatieve sfeer.\nEen bekende architect, Steven Holl heeft samengewerkt met Jessica Lang, en gerenommeerde choreograaf om dans en architectuur op een unieke manier te combineren. Hun project ‘Tesseracts of Time’, een dansvoorstelling waarbij dansers de ruimte van Holl’s architectonische ontwerpen gebruikten. Door de beweging van de dansers te verbinden met ruimtelijke kenmerken van het gebouw, ontstond er een bijzondere ervaring waarin in dans en architectuur elkaar aanvullen. Dit vind ik een heel mooi voorbeeld met hoe dans en architectuur elkaar kunnen versterken en verder helpen.\nWat ik zo interessant vind aan architectuur is dat het een gevoel kan overbrengen en een nieuwe ervaring kan creëren. Dit zie ik vooral bij non-referential architectuur, iedereen heeft er een andere ervaring bij en je kan er niet een duidelijk toon aangeven totdat je het zelf ervaart, net zoals dans.\nDe ruimte die er om een lichaam ontstaat is ook heel bijzonder. Het is eigenlijk een soort leegte waar jezelf niet zo snel aan denkt maar wel heel belangrijk wordt zodra iemand erin staat. Ik vind de wisselwerking tussen het lichaam en architectuur daarom ook zo interessant. Ik wil die wisselwerking gebruiken om ruimtes te vormen en om mensen meer bewust te maken van hun lichaam en de ruimte daar omheen."],
-    "images" : ["http://portfolio-megan.s3-website.eu-west-2.amazonaws.com/images/posterarchsem4T.png"],
-    "HTML" : ""
+    "images" : ["https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/posterarchsem4T.png"],
+    "HTML" : "",
+    "carouselPhotos" : []
   },
     {
       "id": 1,
       "title" : "Stationair during a snowstorm",
       "description" : [""],
       "images" : ["https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/Sneeuwstorm.png"],
-      "HTML" : ""
+      "HTML" : "",
+      "carouselPhotos" : []
     },
     {
       "id": 2,
       "title" : "Hotel Varme",
-      "description" : [""],
+      "description" : ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ullamcorper eget nulla facilisi etiam dignissim. Donec enim diam vulputate ut pharetra sit amet. Morbi tincidunt ornare massa eget egestas. Eu nisl nunc mi ipsum faucibus vitae. Sed blandit libero volutpat sed cras. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Viverra vitae congue eu consequat ac felis donec. Nulla facilisi nullam vehicula ipsum a arcu cursus. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Turpis egestas integer eget aliquet nibh praesent tristique magna. At augue eget arcu dictum varius. A cras semper auctor neque.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ullamcorper eget nulla facilisi etiam dignissim. Donec enim diam vulputate ut pharetra sit amet. Morbi tincidunt ornare massa eget egestas. Eu nisl nunc mi ipsum faucibus vitae. Sed blandit libero volutpat sed cras. Feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Viverra vitae congue eu consequat ac felis donec. Nulla facilisi nullam vehicula ipsum a arcu cursus. Eget egestas purus viverra accumsan in nisl nisi scelerisque. Turpis egestas integer eget aliquet nibh praesent tristique magna. At augue eget arcu dictum varius. A cras semper auctor neque."],
       "images" : ["https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/INTposter.jpg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/_DSC0434Large.jpeg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/_DSC0454Large.jpeg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Axobed.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Beddetails.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Detailsbad.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DetailsP.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Detailswandled.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DOORSNEDE1.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DOORSNEDE2.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DwarsdoorsnedeAA.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DwarsdoorsnedeBB.jpg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Geheelhotel.jpg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image14Large.jpeg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image15Large.jpeg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image18Large.jpeg",
@@ -37,9 +29,17 @@
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image202Large.jpeg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image6_001Large.jpeg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image6Large.jpeg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image7_0012Large.jpeg",
-        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Ledwand.jpg"],
-      "HTML" : ""
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Image7_0012Large.jpeg"],
+      "HTML" : "",
+      "carouselPhotos" : ["https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Ledwand.jpg","https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DwarsdoorsnedeBB.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DwarsdoorsnedeAA.jpg","https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Axobed.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Beddetails.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Detailsbad.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DetailsP.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Detailswandled.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DOORSNEDE1.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/DOORSNEDE2.jpg",
+        "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project2/Geheelhotel.jpg"
+      ]
     },
     {
       "id": 3,
@@ -51,7 +51,8 @@
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project4/_DSC5131.jpg",
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project4/_DSC5136.jpg",
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project4/_DSC5138.jpg"],
-      "HTML" : ""
+      "HTML" : "",
+      "carouselPhotos" : []
     },
     {
       "id": 4,
@@ -78,7 +79,8 @@
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project1/PlattegrondMuseumP.jpg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project1/postersintenarch-2.jpg",
         "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project1/Schuifdeur.jpg"],
-      "HTML" : ""
+      "HTML" : "",
+      "carouselPhotos" : []
     },
     {
       "id": 5,
@@ -99,14 +101,15 @@
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project3/_DSC4011.jpg",
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project3/_DSC4016.jpg",
       "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project3/_DSC4021.jpg"],
-      "HTML" : ""
+      "HTML" : "",
+      "carouselPhotos" : []
     },
     {
       "id" : 6,
       "title" : "The dance-shaped space, Wezenlanden Park.",
       "description" : [""],
       "images" : ["https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC5002.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC5005.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC5081.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC5087.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC5088.jpg", "https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/project5/_DSC7034.jpg"],
-      "CarouselPhotos" : ""
+      "carouselPhotos" : []
     }
   ]
 }

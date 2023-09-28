@@ -14,10 +14,10 @@ export default function Navigation() {
 
                 <nav id="navbar" className="navbar">
                     <ul>
-                        <li><a className="nav-link scrollto" href="#about">About</a></li>
-                        <li><a className="nav-link scrollto" href="#resume">Resume</a></li>
-                        <li><a className="nav-link scrollto" href="#portfolio">Portfolio</a></li>
-                        <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
+                        <li><a className="nav-link scrollto" href={"/#about"}>About</a></li>
+                        <li><a className="nav-link scrollto" href={"/#resume"}>Resume</a></li>
+                        <li><a className="nav-link scrollto" href={"/#portfolio"}>Portfolio</a></li>
+                        <li><a className="nav-link scrollto" href={"/#contact"}>Contact</a></li>
                     </ul>
                 </nav>
             </div>
