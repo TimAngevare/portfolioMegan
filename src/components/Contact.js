@@ -11,9 +11,9 @@ export default function Contact() {
                     <p>Feel free to contact me for any questions or possible collaborations!</p>
                 </div>
 
-                <div className="row justify-content-center">
+                <div className="row justify-content-center" style={{textAlign: "center"}}>
 
-                    <div className="col-lg-4 col-md-4">
+                    <div className="col-lg-3 col-md-3" style={{paddingRight:0}}>
                         <div className="contact-about">
                             <h3 className="header-text">Megan van Delden</h3>
                             <p>Student Interior Architecture, part-time creative developer</p>

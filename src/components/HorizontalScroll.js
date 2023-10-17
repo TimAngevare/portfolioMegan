@@ -13,40 +13,40 @@ export default function HorizontalScroll(){
     return(
         <div>
             <div className="my-carousel">
-                <a href={window.location.href + "projects?id=3"}>
+                <a href={window.location.href + "projects?id=2"}>
                     <div className="my-slide">
                         <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/1.jpg"/>
-                        <div className="hide">Project Dos</div>
+                        <div className="hide">Hotel Varme</div>
+                    </div>
+                </a>
+                <a href={window.location.href + "projects?id=4"}>
+                    <div className="my-slide">
+                        <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/2.jpg"/>
+                        <div className="hide">Museum Annex Villa Palička</div>
                     </div>
                 </a>
                 <a href={window.location.href + "projects?id=5"}>
                     <div className="my-slide">
-                        <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/2.jpg"/>
-                        <div className="hide">Project quatro</div>
-                    </div>
-                </a>
-                <a href={window.location.href + "projects?id=2"}>
-                    <div className="my-slide">
                         <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/3.jpg"/>
-                        <div className="hide">Project Uno</div>
+                        <div className="hide">Enlightening softness</div>
                     </div>
                 </a>
-                <a href={window.location.href + "projects?id=3"}>
+                <a href={window.location.href + "projects?id=6"}>
                     <div className="my-slide">
                         <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/4.jpg"/>
-                        <div className="hide">Project dos</div>
+                        <div className="hide">The dance-shaped space, Wezenlanden Park.</div>
                     </div>
                 </a>
                 <a href={window.location.href + "projects?id=3"}>
                     <div className="my-slide">
                         <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/5.jpg"/>
-                        <div className="hide">Project dos</div>
+                        <div className="hide">Detail for the dance-shaped space</div>
                     </div>
                 </a>
-                <a href={window.location.href + "projects?id=3"}>
+                <a href={window.location.href + "projects?id=2"}>
                     <div className="my-slide">
                         <img src="https://portfolio-megan.s3.eu-west-2.amazonaws.com/images/carousel/6.jpg"/>
-                        <div className="hide">Project dos</div>
+                        <div className="hide">Hotel Varme</div>
                     </div>
                 </a>
             </div>

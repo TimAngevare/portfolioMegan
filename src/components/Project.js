@@ -43,17 +43,13 @@ export default function Project(){
                 <div className="row">
                     <div dangerouslySetInnerHTML={{__html: project.HTML}}/>
                 </div>}
-                {project.carouselPhotos &&
+                {project.carouselPhotos.length != 0 &&
                     <div className="row" style={{justifyContent : 'center', textAlign : 'center', paddingTop: 30, paddingBottom: 30}}>
                         <h3>Drawings</h3>
                         <Carousel data-bs-theme="dark" style={{width: '70%', height : 'auto'}}>
                             {project.carouselPhotos.map((tekening) =>
                                 <Carousel.Item>
                                     <img src={tekening}/>
-                                    <Carousel.Caption>
-                                        <h3>Bla Bla Bla</h3>
-                                        <p>Bla</p>
-                                    </Carousel.Caption>
                                 </Carousel.Item>
                             )}
                         </Carousel>
